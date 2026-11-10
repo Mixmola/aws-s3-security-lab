@@ -34,3 +34,15 @@ I believe in learning by doing. This repository documents my practical exercises
 ## Repository Structure
 
 Documentation, policy files, screenshots, and security findings will be organised in this repository as the project develops.
+## Project Evidence
+
+The screenshots folder contains visual evidence of the AWS configurations and IAM permission tests completed during this project.
+
+| Screenshot | Description |
+|---|---|
+| 01-block-public-access.png | S3 Block Public Access configuration |
+| 02-default-encryption.png | Default server-side encryption using SSE-S3 |
+| 03-bucket-versioning.png | S3 bucket versioning enabled |
+| 04-iam-least-privilege-policy.png | Custom IAM policy JSON |
+| 05-test-user-permissions.png | IAM test user and attached policy |
+| 06-iam-policy-simulator-results.png | Results of five IAM permission simulations |
