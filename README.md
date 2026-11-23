@@ -33,19 +33,6 @@ I believe in learning by doing. This repository documents my practical exercises
 
 ## Repository Structure
 
-```text
-aws-iam-access-control-lab/
-├── README.md
-├── policies/
-│   ├── readonly-s3-policy.json
-│   └── upload-s3-policy.json
-├── findings/
-│   └── security-findings.md
-└── screenshots/
-    └── (project evidence)
-```
-
-
 Documentation, policy files, screenshots, and security findings will be organised in this repository as the project develops.
 ## Project Evidence
 
